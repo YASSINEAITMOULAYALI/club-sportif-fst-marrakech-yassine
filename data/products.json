@@ -1,34 +1,59 @@
+
 [
   {
     "id": 1,
     "name": "Ballon de football",
     "category": "Football",
     "price": 180,
-    "stock": 12,
-    "available": true
+    "stock": 12
   },
   {
     "id": 2,
-    "name": "Ballon de basketball",
-    "category": "Basketball",
-    "price": 220,
-    "stock": 8,
-    "available": true
+    "name": "Chaussures de football",
+    "category": "Football",
+    "price": 450,
+    "stock": 8
   },
   {
     "id": 3,
+    "name": "Maillot de football",
+    "category": "Football",
+    "price": 220,
+    "stock": 20
+  },
+  {
+    "id": 4,
+    "name": "Ballon de basketball",
+    "category": "Basketball",
+    "price": 220,
+    "stock": 10
+  },
+  {
+    "id": 5,
+    "name": "Panier de basketball",
+    "category": "Basketball",
+    "price": 850,
+    "stock": 3
+  },
+  {
+    "id": 6,
+    "name": "Ballon de volleyball",
+    "category": "Volleyball",
+    "price": 150,
+    "stock": 14
+  },
+  {
+    "id": 7,
     "name": "Filet de volleyball",
     "category": "Volleyball",
     "price": 350,
-    "stock": 0,
-    "available": false
-  }
-  {
-    "id": 4,
-    "name": "gilets",
-    "category": "Football",
-    "price": 100,
-    "stock": 44,
-    "available": true
+    "stock": 5
   },
+  {
+    "id": 8,
+    "name": "Genouillères de volleyball",
+    "category": "Volleyball",
+    "price": 120,
+    "stock": 18
+  }
 ]

@@ -1,20 +1,39 @@
+
 [
   {
     "id": 1,
-    "firstName": "Yassine",
-    "lastName": "Ait Moulay Ali",
-    "email": "yassine@example.com",
-    "phone": "0600000000",
-    "membershipType": "Etudiant",
+    "name": "Yassine Ait Moulay Ali",
+    "city": "Marrakech",
     "active": true
   },
   {
     "id": 2,
-    "firstName": "Salma",
-    "lastName": "Amrani",
-    "email": "salma@example.com",
-    "phone": "0611111111",
-    "membershipType": "Etudiant",
+    "name": "Salma Amrani",
+    "city": "Casablanca",
+    "active": true
+  },
+  {
+    "id": 3,
+    "name": "Hamza El Idrissi",
+    "city": "Marrakech",
+    "active": true
+  },
+  {
+    "id": 4,
+    "name": "Sara Benali",
+    "city": "Agadir",
+    "active": false
+  },
+  {
+    "id": 5,
+    "name": "Omar Alaoui",
+    "city": "Rabat",
+    "active": true
+  },
+  {
+    "id": 6,
+    "name": "Imane Tazi",
+    "city": "Fès",
     "active": true
   }
 ]
